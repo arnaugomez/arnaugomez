@@ -6,7 +6,7 @@ a Frontend Engineer with 5 years of experience building web & mobile application
 
 - Finishing my Computer Science degree at UNED
 - Teaching coding skills to thousands of developers at my [YouTube Channel](https://www.youtube.com/channel/UCIZngQLXesmjRJ1SdE8SIxg)
-- Working on frontend and mobile apps for [Mr Milú](https://mrmilu.com/).
+- Developing frontend and mobile apps for [Mr Milú](https://mrmilu.com/).
 
 ## My best projects
 
