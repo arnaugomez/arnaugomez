@@ -1,4 +1,4 @@
-## Hi, I'm Arnau Gómez
+## Hi, I'm Arnau Gómez,
 
 a Frontend Engineer with 5 years of experience building web & mobile applications.
 
@@ -8,7 +8,7 @@ a Frontend Engineer with 5 years of experience building web & mobile application
 - Teaching coding skills to thousands of developers at my [YouTube Channel](https://www.youtube.com/channel/UCIZngQLXesmjRJ1SdE8SIxg)
 - Working on frontend and mobile apps for [Mr Milú](https://mrmilu.com/).
 
-## Here are some of my projects
+## My best projects
 
 - Opticalia https://www.opticalia.com/
 - Pepecar https://www.pepecar.com/
