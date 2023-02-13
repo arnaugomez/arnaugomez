@@ -1,4 +1,4 @@
-## Hi, I'm Arnau Gómez,
+# Hi. I'm Arnau Gómez,
 
 a Frontend Engineer with 5 years of experience building web & mobile applications.
 
