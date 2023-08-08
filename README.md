@@ -10,7 +10,8 @@ a Frontend Engineer with 5 years of experience building web & mobile application
 
 ## Open source work
 
-Currently contributing to @tanstack/table
+- @mrmilu/inversify-generator : Code generator for dependency injection
+- Currently contributing to @tanstack/table
 
 ## Projects I've been in
 
